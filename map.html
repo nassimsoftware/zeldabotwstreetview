@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    <style>
+        #mapid {
+            height: 180px;
+        }
+    </style>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="map" style="width: 1280px; height: 720px;"></div>
+    <script>
+
+        var map = L.map('map', {
+            crs: L.CRS.Simple,
+            minZoom: -4
+        });
+
+        var bounds = [[0, 0], [1000, 2000]];
+        var image = L.imageOverlay('map.jpg', bounds).addTo(map);
+        map.fitBounds(bounds);
+
+        var sol = L.latLng([400, 600]);
+        function onClick(e) {
+            console.log('hello!');
+        }
+        
+        L.marker(sol).addTo(map)
+        .bindPopup('Hyrule field')
+        .on('click', onClick);
+        map.setView([500, 500], -1);
+    </script>
+</body>
+
+</html>
