@@ -139,10 +139,104 @@
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/YXhnv0N/3.jpg"
+                    "panorama": "https://i.ibb.co/YXhnv0N/3.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 0.0,
+                            "yaw": 359.0,
+                            "type": "scene",
+                            "sceneId": "4"
+                        }
+                    ]
+                },
+
+                "4": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/N2QXZ9X/4.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -25.0,
+                            "yaw": 500.0,
+                            "type": "scene",
+                            "sceneId": "5"
+                        }
+                    ]
+                },
+
+                "5": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/pb11W6Z/5.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -10.0,
+                            "yaw": 60.0,
+                            "type": "scene",
+                            "sceneId": "6"
+                        }
+                    ]
+                },
+
+                "6": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/GVKDTZc/6.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -15.0,
+                            "yaw": -40.0,
+                            "type": "scene",
+                            "sceneId": "7"
+                        }
+                    ]
+                },
+
+                "7": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/KjxmLPZ/7.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -10.0,
+                            "yaw": 10.0,
+                            "type": "scene",
+                            "sceneId": "8"
+                        }
+                    ]
+                },
+
+                "8": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/mJn5ctY/8.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -10.0,
+                            "yaw": 40.0,
+                            "type": "scene",
+                            "sceneId": "9"
+                        }
+                    ]
+                },
+                "9": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/3M4hX5s/9.jpg"
                 }
             }
-
         }
     }
 ]
