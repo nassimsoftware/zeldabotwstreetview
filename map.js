@@ -2,7 +2,7 @@
 function initStreetViewer(panoramaData) {
  
     let panorama = document.getElementById('panorama');
- 
+    panorama.classList.remove('hide');
 
     const panoramaViewer = pannellum.viewer('panorama', panoramaData);
     
@@ -13,7 +13,9 @@ function initStreetViewer(panoramaData) {
     btn.classList.remove('hide');
     btn.addEventListener('click', () => {
         panoramaViewer.destroy();
+        panorama.classList.add('hide');
         map.classList.remove('hide');
+        btn.classList.add('hide');
     })
 
 }

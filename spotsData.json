@@ -6,13 +6,11 @@
         "panoramaData": {
             "default": {
                 "firstScene": "Hyrule Field 1",
-                "author": "",
                 "sceneFadeDuration": 1000
             },
 
             "scenes": {
                 "Hyrule Field 1": {
-                    "title": "Hyrule Field",
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
@@ -23,14 +21,12 @@
                             "pitch": 5.1,
                             "yaw": 10.0,
                             "type": "scene",
-                            "text": "Hyrule Field 2",
                             "sceneId": "Hyrule Field 2"
                         }
                     ]
                 },
                 
                 "Hyrule Field 2": {
-                    "title": "Hyrule Field 2",
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
@@ -45,12 +41,108 @@
         "y": 210,
         "x": 330,
         "locationName": "Near Gerudo Canyon",
-        "panoramaData": null
+        "panoramaData": {
+            "default": {
+                "firstScene": "Near Gerudo Canyon 1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "Near Gerudo Canyon 1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/XJGGL8g/1.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 10.1,
+                            "yaw": 540.0,
+                            "type": "scene",
+                            "sceneId": "Near Gerudo Canyon 2"
+                        }
+                    ]
+                },
+                
+                "Near Gerudo Canyon 2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/xGsK53Z/2.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -8.0,
+                            "yaw": 470.0,
+                            "type": "scene",
+                            "sceneId": "Near Gerudo Canyon 3"
+                        }
+                    ]
+                },
+
+                "Near Gerudo Canyon 3": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/2nzhBKp/3.jpg"
+                }
+            }
+
+        }
     },
     {
         "y": 235,
         "x": 560,
         "locationName": "Great Plateau",
-        "panoramaData": null
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/SXSZPyk/1.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 0.0,
+                            "yaw": 3.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        }
+                    ]
+                },
+                
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/1J2P1j1/2.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 10.0,
+                            "yaw": 359.0,
+                            "type": "scene",
+                            "sceneId": "3"
+                        }
+                    ]
+                },
+
+                "3": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/YXhnv0N/3.jpg"
+                }
+            }
+
+        }
     }
 ]
