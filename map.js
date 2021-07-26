@@ -1,15 +1,22 @@
-// var spotsData = [
-//     {
-//         y: 400,
-//         x: 700,
-//         locationName: "Hyrule Field"
-//     },
-//     {
-//         y: 210,
-//         x: 330,
-//         locationName: "Near Gerudo Canyon"
-//     }
-// ];
+
+function initStreetViewer(panoramaData) {
+ 
+    let panorama = document.getElementById('panorama');
+ 
+
+    const panoramaViewer = pannellum.viewer('panorama', panoramaData);
+    
+    let map = document.getElementById('map'); 
+    map.classList.add('hide');
+    
+    let btn = document.getElementById('goBack')
+    btn.classList.remove('hide');
+    btn.addEventListener('click', () => {
+        panoramaViewer.destroy();
+        map.classList.remove('hide');
+    })
+
+}
 
 
 
@@ -20,12 +27,12 @@ async function mapSpotsToMap() {
         L.marker(position).addTo(map)
         .bindPopup(spot.locationName)
         .on('click', () => {
-            console.log(spot.locationName);
+            initStreetViewer(spot.panoramaData);
         })
     }
 }
 
-
+//creates map 
 var map = L.map('map', {
     crs: L.CRS.Simple,
     minZoom: -0.5
@@ -34,11 +41,5 @@ var map = L.map('map', {
 var bounds = [[0, 0], [1000, 2000]];
 var image = L.imageOverlay('map.jpg', bounds).addTo(map);
 map.fitBounds(bounds);
-
+////
 mapSpotsToMap();
-
-// var sol = L.latLng([400, 600]);
-
-// L.marker(sol).addTo(map)
-// .bindPopup('Hyrule field')
-// .on('click', onClick);

@@ -10,22 +10,28 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
         integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
         crossorigin=""></script>
-    <link rel="stylesheet" href="style.css">    
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>    
     <title>Zelda BotW Street View</title>
 </head>
 <body>
     <header>
         <h1>Zelda Breath of The Wild Street View</h1>
-        <p>View your favorite BotW locations as if you're playing</p>
+        <p>Google maps' street view meets Zelda Breath of The Wild</p>
         <div>
             <a href="#">About</a>
-            <a href="#">Contribute</a>
+            <a href="#">Submit Locations</a>
         </div>
     </header>
+    <button id="goBack" class="hide">Map</button>
     <section>
-        <div id="map"></div>
-        <script src="map.js"></script>      
+        <div id="map"></div>  
     </section>
+    <section>
+        <div id="panorama"></div>
+    </section>
+    <script src="map.js"></script>
     <footer>
         <a href="https://imgur.com/a/f9a5u" target="_blank">Source of the map image</a>
         <p>This project was made by Nassim's Software.</p>

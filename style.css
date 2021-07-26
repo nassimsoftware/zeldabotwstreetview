@@ -22,7 +22,11 @@ header, section, footer {
     align-items: center;
 }
 
-#map {
+#map, #panorama {
     height: 80vh;
     width: 100%;
+}
+
+.hide {
+    display: none;
 }

@@ -2,16 +2,55 @@
     {
         "y": 400,
         "x": 700,
-        "locationName": "Hyrule Field"
+        "locationName": "Hyrule Field",
+        "panoramaData": {
+            "default": {
+                "firstScene": "Hyrule Field 1",
+                "author": "",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "Hyrule Field 1": {
+                    "title": "Hyrule Field",
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/c1fYzcQ/1.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 5.1,
+                            "yaw": 10.0,
+                            "type": "scene",
+                            "text": "Hyrule Field 2",
+                            "sceneId": "Hyrule Field 2"
+                        }
+                    ]
+                },
+                
+                "Hyrule Field 2": {
+                    "title": "Hyrule Field 2",
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/YLP8p9d/2.jpg"
+                }
+            }
+
+        }
     },
     {
         "y": 210,
         "x": 330,
-        "locationName": "Near Gerudo Canyon"
+        "locationName": "Near Gerudo Canyon",
+        "panoramaData": null
     },
     {
         "y": 235,
         "x": 560,
-        "locationName": "Great Plateau"
+        "locationName": "Great Plateau",
+        "panoramaData": null
     }
 ]
