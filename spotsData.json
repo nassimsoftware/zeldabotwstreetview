@@ -5,12 +5,12 @@
         "locationName": "Hyrule Field",
         "panoramaData": {
             "default": {
-                "firstScene": "Hyrule Field 1",
+                "firstScene": "1",
                 "sceneFadeDuration": 1000
             },
 
             "scenes": {
-                "Hyrule Field 1": {
+                "1": {
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
@@ -21,17 +21,32 @@
                             "pitch": 5.1,
                             "yaw": 10.0,
                             "type": "scene",
-                            "sceneId": "Hyrule Field 2"
+                            "sceneId": "2"
                         }
                     ]
                 },
                 
-                "Hyrule Field 2": {
+                "2": {
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/YLP8p9d/2.jpg"
+                    "panorama": "https://i.ibb.co/YLP8p9d/2.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 5.1,
+                            "yaw": 100.0,
+                            "type": "scene",
+                            "sceneId": "3"
+                        }
+                    ]
+                },
+
+                "3": {
+                    "pitch": 5.1,
+                    "yaw": 10.0,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/ZWCb0sM/3.jpg"
                 }
             }
 
@@ -237,6 +252,187 @@
                     "panorama": "https://i.ibb.co/3M4hX5s/9.jpg"
                 }
             }
+        }
+    },
+    {
+        "y": 200,
+        "x": 300,
+        "locationName": "Gerudo Tower",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/bHPCjVM/4.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 200,
+        "x": 246,
+        "locationName": "Kara Kara Bazar",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/0h28VLG/5.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 400,
+        "x": 100,
+        "locationName": "Gerudo Highlands",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/cvwbrdd/1.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 450,
+        "x": 370,
+        "locationName": "Near Satori Mountain",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/HxWHtxg/1.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 30.0,
+                            "yaw": 220.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        },
+                        {
+                            "pitch": 10.0,
+                            "yaw": 190.0,
+                            "type": "scene",
+                            "sceneId": "3"
+                        },
+                        {
+                            "pitch": 30.0,
+                            "yaw": 200.0,
+                            "type": "scene",
+                            "sceneId": "5"
+                        }
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/qp5Bpz2/6.jpg"
+                },
+                "3": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/gtSGMgh/2.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -5.0,
+                            "yaw": 20.0,
+                            "type": "scene",
+                            "sceneId": "4"
+                        }
+                    ]
+                },
+                "4": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/RQvqR5Q/3.jpg"
+                },
+                "5": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/LCP9MCh/4.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -5.0,
+                            "yaw": 10.0,
+                            "type": "scene",
+                            "sceneId": "6"
+                        } 
+                    ]
+                },
+                "6": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/jvVpSJ1/5.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 745,
+        "x": 820,
+        "locationName": "Near Hyrule Forest",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/r7MzNq1/1.jpg"
+                }
+            }
+
         }
     }
 ]
