@@ -17,7 +17,7 @@ p {
 
 
 .lightBlack {
-    color: rgb(15, 15, 15);
+    color: rgb(56, 56, 56);
 }
 
 /* This centers everything responsively */
@@ -45,11 +45,12 @@ header, section, footer {
 #goBack {
     margin-top: 1vh;
     margin-bottom: 1vh;
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(56, 56, 56);
     color: white;
     padding: 1vh 2vw 1vh 2vw;
     border-radius: 4px;
     border: none;
+    font-family: 'Otomanopee One', sans-serif;
 }
 
 #goBack:active {
@@ -59,7 +60,7 @@ header, section, footer {
     color: white;
     padding: 1vh 2vw 1vh 2vw;
     border-radius: 4px;
-    border: none; 
+    border: none;
 }
 
 a {
