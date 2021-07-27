@@ -11,8 +11,12 @@ h2,
 h3,
 p {
     margin: 0;
+    font-family:Arial, Helvetica, sans-serif
 }
 
+.lightBlack {
+    color: rgb(15, 15, 15);
+}
 
 /* This centers everything responsively */
 header, section, footer {
@@ -23,10 +27,40 @@ header, section, footer {
 }
 
 #map, #panorama {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
     height: 80vh;
-    width: 100%;
+    width: 90%;
+    border-radius: 10px;
 }
 
 .hide {
     display: none;
+}
+
+#goBack {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    padding: 1vh 2vw 1vh 2vw;
+    border-radius: 4px;
+    border: none;
+}
+
+#goBack:active {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    background-color: rgb(41, 41, 41);
+    color: white;
+    padding: 1vh 2vw 1vh 2vw;
+    border-radius: 4px;
+    border: none; 
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
