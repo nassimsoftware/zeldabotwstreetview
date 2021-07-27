@@ -434,5 +434,159 @@
             }
 
         }
+    },
+    {
+        "y": 710,
+        "x": 1120,
+        "locationName": "South Akkala Stable",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/ZB8F83y/pano3.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 700,
+        "x": 1200,
+        "locationName": "Torin Wetland",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/zQT5y6W/pano4.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 100,
+        "x": 1020,
+        "locationName": "Atun Valley",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/GMnnxvT/pano1.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 90,
+        "x": 1095,
+        "locationName": "Lurelin Village",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/rGSkSHt/pano2.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 470,
+        "x": 1100,
+        "locationName": "Zodobon Highlands",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/bbLrbFt/pano3.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 60,
+        "x": 1095,
+        "locationName": "Korne Beach",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/BKfY15m/pano4.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 100,
+        "x": 1196,
+        "locationName": "Cape Cales",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/5hCvMDx/pano6.jpg"
+                }
+            }
+
+        }
     }
 ]
