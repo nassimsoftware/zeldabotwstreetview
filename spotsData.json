@@ -720,5 +720,27 @@
             }
 
         }
+    },
+    {
+        "y": 570,
+        "x": 1120,
+        "locationName": "Near Zora's Domain",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/1sKzS3m/Near-Zora-s-domain.jpg"
+                }
+            }
+
+        }
     }
 ]
