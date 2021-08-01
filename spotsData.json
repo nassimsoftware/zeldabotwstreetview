@@ -15,6 +15,7 @@
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/c1fYzcQ/1.jpg",
                     "hotSpots": [
                         {
@@ -30,6 +31,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/YLP8p9d/2.jpg",
                     "hotSpots": [
@@ -45,6 +47,7 @@
                 "3": {
                     "pitch": 5.1,
                     "yaw": 10.0,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/ZWCb0sM/3.jpg"
                 }
@@ -67,6 +70,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/XJGGL8g/1.jpg",
                     "hotSpots": [
@@ -83,6 +87,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/xGsK53Z/2.jpg",
                     "hotSpots": [
@@ -99,6 +104,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/2nzhBKp/3.jpg"
                 }
@@ -121,6 +127,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/SXSZPyk/1.jpg",
                     "hotSpots": [
@@ -137,6 +144,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/1J2P1j1/2.jpg",
                     "hotSpots": [
@@ -153,6 +161,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/YXhnv0N/3.jpg",
                     "hotSpots": [
@@ -169,6 +178,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/N2QXZ9X/4.jpg",
                     "hotSpots": [
@@ -185,6 +195,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/pb11W6Z/5.jpg",
                     "hotSpots": [
@@ -201,6 +212,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/GVKDTZc/6.jpg",
                     "hotSpots": [
@@ -217,6 +229,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/KjxmLPZ/7.jpg",
                     "hotSpots": [
@@ -233,6 +246,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/mJn5ctY/8.jpg",
                     "hotSpots": [
@@ -248,6 +262,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/3M4hX5s/9.jpg"
                 }
@@ -269,6 +284,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/bHPCjVM/4.jpg"
                 }
@@ -291,6 +307,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/0h28VLG/5.jpg"
                 }
@@ -313,6 +330,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/cvwbrdd/1.jpg"
                 }
@@ -335,6 +353,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/HxWHtxg/1.jpg",
                     "hotSpots": [
@@ -362,6 +381,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/qp5Bpz2/6.jpg"
                 },
@@ -369,6 +389,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/gtSGMgh/2.jpg",
                     "hotSpots": [
@@ -384,6 +405,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/RQvqR5Q/3.jpg"
                 },
@@ -391,6 +413,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/LCP9MCh/4.jpg",
                     "hotSpots": [
@@ -406,6 +429,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/jvVpSJ1/5.jpg"
                 }
@@ -428,6 +452,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/r7MzNq1/1.jpg"
                 }
@@ -450,6 +475,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/ZB8F83y/pano3.jpg"
                 }
@@ -472,6 +498,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/zQT5y6W/pano4.jpg"
                 }
@@ -494,6 +521,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/GMnnxvT/pano1.jpg"
                 }
@@ -516,6 +544,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/rGSkSHt/pano2.jpg"
                 }
@@ -538,6 +567,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/bbLrbFt/pano3.jpg"
                 }
@@ -560,6 +590,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/BKfY15m/pano4.jpg"
                 }
@@ -582,6 +613,7 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
+                    "showControls": false,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/5hCvMDx/pano6.jpg"
                 }

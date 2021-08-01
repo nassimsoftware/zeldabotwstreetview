@@ -21,27 +21,56 @@
 </head>
 <body>
 
-    <div class="pane">
-        <div class="title">
-            <h1 class="lightBlack">Zelda Breath of The Wild Street View</h1>
-            <p class="lightBlack">Google maps' street view meets Zelda Breath of The Wild</p>
-            <hr style="height: 2px; width: 100%;">
+        <div class="pane">
+            
+            <div class="title">
+                <h2 id="localName" class="lightBlack">Zelda Breath of The Wild Street View</h1>
+                <p class="lightBlack">Google maps' street view meets Zelda Breath of The Wild</p>
+                <hr style="height: 2px; width: 100%;">
+            </div>
+            
+            <div id="links" class="hide">
+                <div class="linkList">
+                    <a href="https://www.youtube.com/watch?v=EYtB1rkwcfU&t=38s">Demo video</a>
+                    <a href="https://github.com/nassimsoftware/zeldabotwstreetview" target="_blank">Source on Github</a>
+                    <a href="https://twitter.com/LabNassim" target="_blank">Follow me on Twitter</a>
+                    <a href="https://www.youtube.com/channel/UCO_O0pw4GNZr6rs8JVKJ_hg?sub_confirmation=1" target="_blank">Subscribe to my YT channel</a>
+                </div>
+            </div>
+            
+
+            <div class="search">
+                <div>
+                    <img id="goBack" src="./assets/explore.png" class="imgIcon">
+                    <h3>Explore</h3>
+                </div>
+                
+                <div>
+                    <img id="submit" src="./assets/submit_location.png" class="imgIcon">
+                    <h3>Create</h3>
+                </div>
+                <div>
+                    <img id="more" src="./assets/more.png" class="imgIcon">
+                    <h3>More</h3>
+                </div>
+            </div>
 
         </div>
-        
-        <h3 id="localName" class="lightBlack"></h3>
+    
 
-        <button id="goBack" class="hide">Map</button>
-        
-        <div class="linkList">
-            <a href="https://www.youtube.com/watch?v=EYtB1rkwcfU&t=38s">Demo video</a>
-            <a href="https://github.com/nassimsoftware/zeldabotwstreetview" target="_blank">Source on Github</a>
-            <a href="https://forms.gle/sQbwSUEczAYC68W8A" target="_blank">Submit Locations</a>
-            <a href="https://twitter.com/LabNassim" target="_blank">Follow me on Twitter</a>
-            <a href="https://www.youtube.com/channel/UCO_O0pw4GNZr6rs8JVKJ_hg?sub_confirmation=1" target="_blank">Subscribe to my YT channel</a>
+
+   
+    <div id="controls" class="hide">
+        <div id="zoom-in">
+            <img class="imgIcon" src="./assets/plus.png">
         </div>
+        <div id="zoom-out">
+            <img class="imgIcon" src="./assets/minus.png">
+        </div>
+        <div id="fullscreen">
+            <img class="imgIcon" src="./assets/fullscreen.png">
+        </div>    
     </div>
-
     
     <div class="mapWindow">
         <section>
