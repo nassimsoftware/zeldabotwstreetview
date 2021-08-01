@@ -16,6 +16,7 @@ function initStreetViewer(panoramaData) {
         panorama.classList.add('hide');
         map.classList.remove('hide');
         btn.classList.add('hide');
+        setLocationName("");
     })
 
 }
@@ -30,8 +31,15 @@ async function mapSpotsToMap() {
         .bindPopup(spot.locationName)
         .on('click', () => {
             initStreetViewer(spot.panoramaData);
+            setLocationName(spot.locationName);
+
         })
     }
+}
+
+// Set location name on panel
+function setLocationName(locationName){
+    document.querySelector("#localName").innerHTML = locationName;
 }
 
 //creates map 

@@ -1,4 +1,6 @@
 /* CSS reset */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 *,
 *::before,
 *::after {
@@ -11,43 +13,57 @@ h2,
 h3,
 p {
     margin: 0;
-    font-family: 'Otomanopee One', sans-serif;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr{background-color: rgb(70, 70, 70);}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 iframe {
-    width: 90%;
-    height: 75vh;
+    width: 100%;
     border-radius: 10px;
 }
-
 
 .lightBlack {
     color: rgb(56, 56, 56);
+    margin-top: 8px;
 }
 
-/* This centers everything responsively */
-header, section, footer {
+.imgIcon{height: 24px;}
+
+.pane{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+    width: 25%;
+    height: 100vh;
+    padding: 16px;
 }
 
+.title{margin-bottom: 32px;}
 
-#map, #panorama {
-    margin-top: 2vh;
-    margin-bottom: 2vh;
-    height: 80vh;
-    width: 90%;
-    border-radius: 10px;
+.linkList{
+    display: flex;
+    margin-top: auto;
+    flex-direction: column;
 }
 
-.hide {
-    display: none;
+.mapWindow{flex: 1;}
+
+#map, #panorama {  
+    height: 100vh;
+    width: 100%;
 }
+
+.hide {display: none;}
 
 #goBack {
+    transition: 200ms;
     margin-top: 1vh;
     margin-bottom: 1vh;
     background-color: rgb(56, 56, 56);
@@ -55,7 +71,6 @@ header, section, footer {
     padding: 1vh 2vw 1vh 2vw;
     border-radius: 4px;
     border: none;
-    font-family: 'Otomanopee One', sans-serif;
 }
 
 #goBack:active {
@@ -68,9 +83,21 @@ header, section, footer {
     border: none;
 }
 
+#goBack:hover{
+    transition: 200ms;
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+}
 a {
     font-style: italic;
     text-decoration: none;
-    margin-left: 1vw;
-    margin-right: 1vw;
+    font-size: .9rem;
+    font-weight: 400;
+}
+a:hover{
+    transition: 200ms;
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
 }
