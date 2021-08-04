@@ -823,5 +823,42 @@
             }
 
         }
+    },
+    {
+        "y": 960,
+        "x": 1000,
+        "locationName": "Eldin's Flank",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/BcvghRb/akkala-borders.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 10.0,
+                            "yaw": 100,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/VShsVYf/akkala-borders-3.jpg"
+                }
+            }
+
+        }
     }
 ]
