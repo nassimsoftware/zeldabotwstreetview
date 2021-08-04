@@ -786,5 +786,42 @@
             }
 
         }
+    },
+    {
+        "y": 940,
+        "x": 930,
+        "locationName": "Eldin Great Skeleton",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/3zKGBng/Eldin-Great-Skeleton.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -4.0,
+                            "yaw": 18.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/cxTqs5T/Inside-Eldin-Great-Skeleton.jpg"
+                }
+            }
+
+        }
     }
 ]
