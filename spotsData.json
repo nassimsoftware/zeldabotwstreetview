@@ -904,5 +904,57 @@
             }
 
         }
+    },
+    {
+        "y": 725,
+        "x": 235,
+        "locationName": "Rito Village",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/VHDQMZT/near-rito-village.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 5.0,
+                            "yaw": -5.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/7RxJK27/rito-village-bridge.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 30.0,
+                            "yaw": 5.0,
+                            "type": "scene",
+                            "sceneId": "3"
+                        } 
+                    ]
+                },
+                "3": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "panorama": "https://i.ibb.co/hZ8yP4h/rito-village-flying-platform.jpg"
+                }
+            }
+
+        }
     }
 ]
