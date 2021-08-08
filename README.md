@@ -1,7 +1,22 @@
-# zeldabotwstreetview
-Google maps' street view but for Zelda Breath of The Wild
-Visit the website : https://nassimsoftware.github.io/zeldabotwstreetview
+# Zelda BOTW Street View  
+### Interface baseada no Google Street View
 
+***
+Este projeto é uma fork do [zeldabotwstreetview](https://github.com/nassimsoftware/zeldabotwstreetview) e ainda está em desenvolvimento. 
 
-https://user-images.githubusercontent.com/87906427/127748723-215eb4a3-a209-40f2-b421-cd73ebc5d527.mp4
+### Visite o site original:
+
+* [GitHub](https://github.com/nassimsoftware/zeldabotwstreetview)
+* [website](https://nassimsoftware.github.io/zeldabotwstreetview)
+* [YouTube Channel](https://www.youtube.com/watch?v=EYtB1rkwcfU)
+
+***
+## 🛠 Ajustes e melhorias
+
+As próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Criar nova UI
+- [x] Implementar novos controles
+- [ ] Implementar animações
+- [ ] Implementar caixa de pesquisa
 
