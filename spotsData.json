@@ -31,8 +31,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/YLP8p9d/2.jpg",
                     "hotSpots": [
                         {
@@ -47,8 +47,8 @@
                 "3": {
                     "pitch": 5.1,
                     "yaw": 10.0,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/ZWCb0sM/3.jpg"
                 }
             }
@@ -70,8 +70,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/XJGGL8g/1.jpg",
                     "hotSpots": [
                         {
@@ -87,8 +87,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/xGsK53Z/2.jpg",
                     "hotSpots": [
                         {
@@ -104,8 +104,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/2nzhBKp/3.jpg"
                 }
             }
@@ -127,8 +127,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/SXSZPyk/1.jpg",
                     "hotSpots": [
                         {
@@ -144,8 +144,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/1J2P1j1/2.jpg",
                     "hotSpots": [
                         {
@@ -161,8 +161,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/YXhnv0N/3.jpg",
                     "hotSpots": [
                         {
@@ -178,8 +178,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/N2QXZ9X/4.jpg",
                     "hotSpots": [
                         {
@@ -195,8 +195,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/pb11W6Z/5.jpg",
                     "hotSpots": [
                         {
@@ -212,8 +212,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/GVKDTZc/6.jpg",
                     "hotSpots": [
                         {
@@ -229,8 +229,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/KjxmLPZ/7.jpg",
                     "hotSpots": [
                         {
@@ -246,8 +246,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/mJn5ctY/8.jpg",
                     "hotSpots": [
                         {
@@ -262,8 +262,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/3M4hX5s/9.jpg"
                 }
             }
@@ -284,8 +284,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/bHPCjVM/4.jpg"
                 }
             }
@@ -307,8 +307,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/0h28VLG/5.jpg"
                 }
             }
@@ -330,8 +330,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/cvwbrdd/1.jpg"
                 }
             }
@@ -353,8 +353,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/HxWHtxg/1.jpg",
                     "hotSpots": [
                         {
@@ -381,16 +381,16 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/qp5Bpz2/6.jpg"
                 },
                 "3": {
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/gtSGMgh/2.jpg",
                     "hotSpots": [
                         {
@@ -405,16 +405,16 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/RQvqR5Q/3.jpg"
                 },
                 "5": {
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/LCP9MCh/4.jpg",
                     "hotSpots": [
                         {
@@ -429,8 +429,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/jvVpSJ1/5.jpg"
                 }
             }
@@ -452,8 +452,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/r7MzNq1/1.jpg"
                 }
             }
@@ -475,8 +475,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/ZB8F83y/pano3.jpg"
                 }
             }
@@ -498,8 +498,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/zQT5y6W/pano4.jpg"
                 }
             }
@@ -521,8 +521,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/GMnnxvT/pano1.jpg"
                 }
             }
@@ -544,8 +544,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/rGSkSHt/pano2.jpg"
                 }
             }
@@ -567,8 +567,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/bbLrbFt/pano3.jpg"
                 }
             }
@@ -590,8 +590,8 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/BKfY15m/pano4.jpg"
                 }
             }
@@ -613,9 +613,395 @@
                     "hfov": 110,
                     "pitch": -3,
                     "yaw": 117,
-                    "showControls": false,
                     "type": "equirectangular",
+                    "showControls": false,
                     "panorama": "https://i.ibb.co/5hCvMDx/pano6.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 660,
+        "x": 1070,
+        "locationName": "Near Cephia Lake",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/mch1bW9/Near-Cephia-Lake.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 268,
+        "x": 945,
+        "locationName": "Dueling Peak Stable",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/k3DqFk9/Dueling-peak-stable.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 262,
+        "x": 925,
+        "locationName": "Big Twin Bridge",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/KKj7mMF/Big-Twin-Bridge.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 165,
+        "x": 700,
+        "locationName": "Near Bridge of Hylia",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/3k87c7D/Bridge-of-Hylia.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 710,
+        "x": 1080,
+        "locationName": "Eldin Canyon",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/6wQ70n7/pano.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 630,
+        "x": 1180,
+        "locationName": "Akkala Span",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/5npSmgD/akkala-span.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 570,
+        "x": 1120,
+        "locationName": "Near Zora's Domain",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/1sKzS3m/Near-Zora-s-domain.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 610,
+        "x": 1150,
+        "locationName": "Upland Zorana",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/SPrqRD8/Upland-Zorana.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 615,
+        "x": 1185,
+        "locationName": "Toto Lake",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/QPdt017/Toto-Lake.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 940,
+        "x": 930,
+        "locationName": "Eldin Great Skeleton",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/3zKGBng/Eldin-Great-Skeleton.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": -4.0,
+                            "yaw": 18.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/cxTqs5T/Inside-Eldin-Great-Skeleton.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 960,
+        "x": 1000,
+        "locationName": "Eldin's Flank",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/BcvghRb/akkala-borders.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 10.0,
+                            "yaw": 100,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/VShsVYf/akkala-borders-3.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 930,
+        "x": 1200,
+        "locationName": "Akkala Wilds",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/Wck3kcn/akkala-wilds.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 900,
+        "x": 1100,
+        "locationName": "Near Gut Check Rock",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/fGvJBZy/deep-akkala.jpg"
+                }
+            }
+
+        }
+    },
+    {
+        "y": 725,
+        "x": 235,
+        "locationName": "Rito Village",
+        "panoramaData": {
+            "default": {
+                "firstScene": "1",
+                "sceneFadeDuration": 1000
+            },
+
+            "scenes": {
+                "1": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/VHDQMZT/near-rito-village.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 5.0,
+                            "yaw": -5.0,
+                            "type": "scene",
+                            "sceneId": "2"
+                        } 
+                    ]
+                },
+                "2": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/7RxJK27/rito-village-bridge.jpg",
+                    "hotSpots": [
+                        {
+                            "pitch": 30.0,
+                            "yaw": 5.0,
+                            "type": "scene",
+                            "sceneId": "3"
+                        } 
+                    ]
+                },
+                "3": {
+                    "hfov": 110,
+                    "pitch": -3,
+                    "yaw": 117,
+                    "type": "equirectangular",
+                    "showControls": false,
+                    "panorama": "https://i.ibb.co/hZ8yP4h/rito-village-flying-platform.jpg"
                 }
             }
 

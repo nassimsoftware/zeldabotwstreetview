@@ -16,63 +16,85 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script> 
     
-    
     <title>Zelda BotW Street View</title>
 </head>
+
 <body>
+    <div class="search">
+        <div class="container">
+            <h1 id="localName" class="lightBlack">Search by location</h1>
+        </div>
+    </div>
 
-        <div class="pane">
-            
-            <div class="title">
-                <h2 id="localName" class="lightBlack">Zelda Breath of The Wild Street View</h1>
-                <p class="lightBlack">Google maps' street view meets Zelda Breath of The Wild</p>
-                <hr style="height: 2px; width: 100%;">
+    <div class="navMenu">
+        <div id="more">
+            <div class="moreOptions">
+                <img src="./assets/more.png" class="icon">
+                <h1>More</h1>
             </div>
-            
-            <div id="links" class="hide">
-                <div class="linkList">
-                    <a href="https://www.youtube.com/watch?v=EYtB1rkwcfU&t=38s">Demo video</a>
-                    <a href="https://github.com/nassimsoftware/zeldabotwstreetview" target="_blank">Source on Github</a>
-                    <a href="https://twitter.com/LabNassim" target="_blank">Follow me on Twitter</a>
-                    <a href="https://www.youtube.com/channel/UCO_O0pw4GNZr6rs8JVKJ_hg?sub_confirmation=1" target="_blank">Subscribe to my YT channel</a>
-                </div>
-            </div>
-            
+        </div>
 
-            <div class="search">
-                <div>
-                    <img id="goBack" src="./assets/explore.png" class="imgIcon">
-                    <h3>Explore</h3>
+        <div id="panel" class="hide">
+            <div class="panel">
+                <div id="hide" class="expand">
+                    <div class="icon" id="more"></div>
                 </div>
                 
-                <div>
-                    <img id="submit" src="./assets/submit_location.png" class="imgIcon">
-                    <h3>Create</h3>
+                <div class="title">
+                    <p class="lightBlack">Google maps' street view meets Zelda Breath of The Wild</p>
                 </div>
-                <div>
-                    <img id="more" src="./assets/more.png" class="imgIcon">
-                    <h3>More</h3>
-                </div>
-            </div>
-
-        </div>
     
+                <section>
+                    <iframe src="https://www.youtube.com/embed/EYtB1rkwcfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </section>
+                
+                <div id="list">
+                    <div class="linkList">
+                        <a href="https://github.com/nassimsoftware/zeldabotwstreetview" target="_blank">
+                            <img src="./assets/github.png" class="icon">
+                            Source on Github
+                        </a>
+    
+                        <a href="https://twitter.com/LabNassim" target="_blank">
+                            <img src="./assets/twitter.png" class="icon">
+                            Follow me on Twitter
+                        </a>
 
+                        <a href="https://www.youtube.com/channel/UCO_O0pw4GNZr6rs8JVKJ_hg?sub_confirmation=1" target="_blank">
+                            <img src="./assets/youtube.png" class="icon">
+                            Subscribe to my YT channel
+                        </a>
+                    </div>
+                </div>              
+            </div>
+        </div>
 
-   
+        <div class="menu">     
+            <div id="goBack">
+                <img src="./assets/explore.png" class="icon">
+                <h1>Explore</h1>
+            </div>
+        
+            <div id="submit">
+                <img src="./assets/submit_location.png" class="icon">
+                <h1>Create</h1>
+            </div>
+        </div>
+    </div>
+
     <div id="controls" class="hide">
-        <div id="zoom-in">
-            <img class="imgIcon" src="./assets/plus.png">
+        <div id="zoom-in" class="btn">
+            <img class="icon" src="./assets/plus.png">
         </div>
-        <div id="zoom-out">
-            <img class="imgIcon" src="./assets/minus.png">
+        <div id="zoom-out" class="btn">
+            <img class="icon" src="./assets/minus.png">
         </div>
-        <div id="fullscreen">
-            <img class="imgIcon" src="./assets/fullscreen.png">
+        <div id="fullscreen" class="btn">
+            <img class="icon" src="./assets/fullscreen.png">
         </div>    
     </div>
-    
-    <div class="mapWindow">
+
+    <div class="mapWrapper">
         <section>
             <div id="map"></div>  
         </section>
@@ -80,7 +102,6 @@
             <div id="panorama" class="hide"></div>
         </section>
     </div>
-    <script src="map.js"></script>
- 
+    <script src="map.js"></script>   
 </body>
 </html>
