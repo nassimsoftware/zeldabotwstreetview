@@ -60,7 +60,7 @@ function initStreetViewer(panoramaData) {
 }
 
 async function mapSpotsToMap() {
-    const spotsData = await (await fetch('./spotsData.json')).json();
+    const spotsData = await (await fetch('./assets/data/spotsData.json')).json();
     for (let spot of spotsData) {
         let position = L.latLng([spot.y, spot.x]);
 
@@ -93,7 +93,7 @@ if(!isMobile()){
 }
 
 var bounds = [[0, 0], [1000, 2000]];
-var image = L.imageOverlay('map.jpg', bounds).addTo(map);
+var image = L.imageOverlay('./assets/maps/map.jpg', bounds).addTo(map);
 map.fitBounds(bounds);
 
 mapSpotsToMap();
