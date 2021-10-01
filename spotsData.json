@@ -32,7 +32,8 @@
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/YLP8p9d/2.jpg",
+                    "panorama": "https://i.ibb.co/PNJXQD7/2.png",
+                    "autoLoad": true,
                     "hotSpots": [
                         {
                             "pitch": 5.1,
