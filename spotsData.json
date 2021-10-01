@@ -48,7 +48,8 @@
                     "pitch": 5.1,
                     "yaw": 10.0,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/ZWCb0sM/3.jpg"
+                    "panorama": "https://i.ibb.co/Lt4WML2/3.png",
+                    "autoLoad": true
                 }
             }
 
