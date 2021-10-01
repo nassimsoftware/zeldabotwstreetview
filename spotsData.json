@@ -16,6 +16,7 @@
                     "yaw": 117,
                     "type": "equirectangular",
                     "panorama": "https://i.ibb.co/Jz1db1T/1.png",
+                    "autoLoad": true,
                     "hotSpots": [
                         {
                             "pitch": 5.1,
