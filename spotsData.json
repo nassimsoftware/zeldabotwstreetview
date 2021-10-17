@@ -88,7 +88,8 @@
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/xGsK53Z/2.jpg",
+                    "panorama": "https://i.ibb.co/wY1Nn9T/2.jpg",
+                    "autoLoad" : true
                     "hotSpots": [
                         {
                             "pitch": -8.0,
