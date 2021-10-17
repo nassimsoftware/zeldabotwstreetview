@@ -105,7 +105,8 @@
                     "pitch": -3,
                     "yaw": 117,
                     "type": "equirectangular",
-                    "panorama": "https://i.ibb.co/2nzhBKp/3.jpg"
+                    "autoLoad" : true,
+                    "panorama": "https://i.ibb.co/x8mHcbF/3.jpg"
                 }
             }
 
